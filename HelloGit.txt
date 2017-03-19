@@ -3,5 +3,6 @@ Hello Git World!
 This line added from frebern/SE-2017
 =======
 For Pull Request, I added one more line(make some changes).
+NEW CHANGE
 For Synchronize test(Project repo -> My repo), I adde one more line(make more changes).
 >>>>>>> f5a7d15acc061f9c5791b451763ef8b0036e547e
